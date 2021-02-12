@@ -1,0 +1,3 @@
+D:/progetti c ++/DiminuireMaxDiMin_Funzioni/cmake-build-debug/CMakeFiles/DiminuireMaxDiMin_Funzioni.dir
+D:/progetti c ++/DiminuireMaxDiMin_Funzioni/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/progetti c ++/DiminuireMaxDiMin_Funzioni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
